@@ -1,0 +1,19 @@
+.articles{
+    background-color: rgb(170, 126, 174);
+    width: 100%;
+    height: 100vh;
+}
+.articlesUl{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding-left: 70px;
+    padding-top: 30px;
+    justify-content: center;
+    gap: 10px;
+}
+.articlesUl a {
+  text-decoration: none;
+  color: inherit;
+}
+
